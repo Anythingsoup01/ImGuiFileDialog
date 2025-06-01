@@ -12,6 +12,6 @@ project "ImGuiFileDialog"
 
     includedirs
     {
-        "$(WORKSPACEDIR)/vendor/imgui",
-        "$(WORKSPACEDIR)/vendor/stb",
+        "$(WORKSPACEDIR)/Ferret/vendor/imgui",
+        "$(WORKSPACEDIR)/Ferret/vendor/stb",
     }
